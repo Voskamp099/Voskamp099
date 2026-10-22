@@ -26,7 +26,7 @@ Mask2Former R50 at native 2048×2048 with a dynamic snake-shaped shared-mask ada
 | [`Coding-Lady-Hackathon`](https://github.com/Voskamp099/Coding-Lady-Hackathon) | TypeScript · full-stack app, 722-line feed component, parent/child growth tracking |
 | [`PetAssistant`](https://github.com/Voskamp099/PetAssistant) | Swift · native macOS menu-bar companion, Apple Calendar, bilingual speech synthesis |
 | [`hydroknow`](https://github.com/Voskamp099/hydroknow) | Python · domain knowledge tool |
-| [`Auriculate-copy`](https://github.com/Voskamp099/Auriculate-copy) | HTML · hand-gesture audio interface with persistent custom sound sets |
+| [`Auriculate-Hackathon-2026`](https://github.com/Voskamp099/Auriculate-Hackathon-2026) | HTML · hand-gesture audio interface with persistent custom sound sets |
 | [`voskamp099.github.io`](https://github.com/Voskamp099/voskamp099.github.io) | Bilingual writing and project notes → [voskamp099.github.io](https://voskamp099.github.io/) |
 
 ## Education
