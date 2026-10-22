@@ -24,6 +24,7 @@ Mask2Former R50 at native 2048×2048 with a dynamic snake-shaped shared-mask ada
 | --- | --- |
 | [`solar-m2f-snake2048`](https://github.com/Voskamp099/solar-m2f-snake2048) | Python · instance segmentation · verification-pinned submission, public LB 0.36 |
 | [`Coding-Lady-Hackathon`](https://github.com/Voskamp099/Coding-Lady-Hackathon) | TypeScript · full-stack app, 722-line feed component, parent/child growth tracking |
+| [`beijing-alliance`](https://github.com/Voskamp099/beijing-alliance) | Node/Express · platform connecting universities, companies and government partners — JWT auth, admin console, moderation workflow, MySQL with JSON fallback, 64 tests |
 | [`PetAssistant`](https://github.com/Voskamp099/PetAssistant) | Swift · native macOS menu-bar companion, Apple Calendar, bilingual speech synthesis |
 | [`hydroknow`](https://github.com/Voskamp099/hydroknow) | Python · domain knowledge tool |
 | [`Auriculate-Hackathon-2026`](https://github.com/Voskamp099/Auriculate-Hackathon-2026) | HTML · hand-gesture audio interface with persistent custom sound sets |
