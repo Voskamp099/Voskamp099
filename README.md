@@ -24,7 +24,8 @@ Mask2Former R50 at native 2048×2048 with a dynamic snake-shaped shared-mask ada
 | --- | --- |
 | [`solar-m2f-snake2048`](https://github.com/Voskamp099/solar-m2f-snake2048) | Python · instance segmentation · verification-pinned submission, public LB 0.36 |
 | [`Coding-Lady-Hackathon`](https://github.com/Voskamp099/Coding-Lady-Hackathon) | TypeScript · full-stack app, 722-line feed component, parent/child growth tracking |
-| [`campus-ecosystem-alliance`](https://github.com/Voskamp099/campus-ecosystem-alliance) | Node/Express · platform connecting universities, companies and government partners — JWT auth, admin console, moderation workflow, MySQL with JSON fallback, 64 tests |
+| [`quant-alpha-pipeline`](https://github.com/Voskamp099/quant-alpha-pipeline) | Python · reproducible quant research pipeline — config-driven, human review gate, resumable runs, duplication control · method published, data kept local |
+| [`campus-ecosystem-network`](https://github.com/Voskamp099/campus-ecosystem-network) | Node/Express · platform connecting universities, companies and government partners — JWT auth, admin console, moderation workflow, MySQL with JSON fallback, 64 tests |
 | [`PetAssistant`](https://github.com/Voskamp099/PetAssistant) | Swift · native macOS menu-bar companion, Apple Calendar, bilingual speech synthesis |
 | [`hydroknow`](https://github.com/Voskamp099/hydroknow) | Python · domain knowledge tool |
 | [`Auriculate-Hackathon-2026`](https://github.com/Voskamp099/Auriculate-Hackathon-2026) | HTML · hand-gesture audio interface with persistent custom sound sets |
@@ -32,8 +33,14 @@ Mask2Former R50 at native 2048×2048 with a dynamic snake-shaped shared-mask ada
 
 ## Education
 
-**Beijing University of Technology** — B.S. candidate, Big Data Management and Application, Sep 2023 – Jun 2027 · GPA 3.64 / 4.00
+**Beijing University of Technology** — Bachelor of Management candidate, Big Data Management and Application, Sep 2023 – Jun 2027 · GPA 3.64 / 4.00
 **UC Berkeley Extension** — Visiting Student, Global Access Program, Aug 2025 – May 2026
+
+**Selected non-credit online courses** — Python Essential Training and Artificial Intelligence Foundations: Thinking Machines (LinkedIn Learning, completed Jul 2026)
+
+## Technical profile
+
+[Full technical profile](https://voskamp099.github.io/technical-profile.html) — education, selected online courses, research, engineering work, publications, awards, and repositories on one page.
 
 ## Elsewhere
 
