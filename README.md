@@ -4,12 +4,14 @@ Big Data Management and Application, Beijing University of Technology.
 Visiting student at UC Berkeley, Global Access Program (2025–2026).
 Interested in software engineering, applied ML, and computer vision.
 
+[English](README.md) · [简体中文](README.zh-CN.md)
+
 ---
 
 ## Three things worth looking at first
 
 **Granted invention patent — CN 119739853 B**
-Co-inventor, one of seven named inventors. *"A method for cross-platform social media summarization based on LLM self-iteration."* Patent holder: Beijing University of Technology. Filed 2024-12-05, granted 2025. IPC classes G06N 20/00, G06N 5/04.
+Co-inventor, one of seven named inventors. *"A method for cross-platform social media summarization based on LLM self-iteration."* Patent holder: Beijing University of Technology. Filed 2024-12-05, granted 2026-08-04. IPC classes G06N 20/00, G06N 5/04.
 
 **Research assistant, multimodal video-reasoning benchmarks — 2026 to present**
 Contributed 230K task samples across video-to-video and reference-video-to-video tasks; defined task schemas and validated target-prompt consistency against the team's existing benchmark suite.
