@@ -10,6 +10,7 @@
       <p>Beijing · Berkeley</p>
       <p>
         <a href="https://voskamp099.github.io/">Notes</a> ·
+        <a href="https://voskamp099.github.io/v2v-task-samples/">Task samples</a> ·
         <a href="https://linkedin.com/in/raelynn-z">LinkedIn</a> ·
         <a href="https://voskamp099.github.io/technical-profile.html">Technical profile</a>
       </p>
@@ -34,6 +35,7 @@
       <p>Beijing University of Technology — Big Data Management and Application, 2023–2027. UC Berkeley Extension — Visiting Student, 2025–2026. Coursework, publications and awards on the <a href="https://voskamp099.github.io/technical-profile.html">technical profile</a>.</p>
       <h3>Writing</h3>
       <p>Research write-ups on video-reasoning datasets and counterfactual physics video, plus notes on building with AI and quant research pipelines — <a href="https://voskamp099.github.io/">voskamp099.github.io</a></p>
+      <p><a href="https://voskamp099.github.io/v2v-task-samples/">Video-reasoning task samples</a> — one real sample per task: the input video, the target video and the prompt.</p>
     </td>
   </tr>
 </table>
