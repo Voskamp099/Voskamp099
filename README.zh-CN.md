@@ -18,7 +18,8 @@
       <h3>现在</h3>
       <ul>
         <li><strong>已授权发明专利 CN 119739853 B</strong> —— 7 位共同发明人之一；内容是基于大语言模型自迭代的跨平台社交媒体摘要生成方法。</li>
-        <li><strong>多模态视频推理基准</strong> —— 在视频到视频与参考视频到视频任务上累计 23 万条任务样本；定义任务 schema 并核对目标与提示词的一致性。</li>
+        <li><strong>多模态视频推理基准</strong> —— 在视频到视频与参考视频到视频任务上累计 23 万条任务样本；独立负责 16 个数据集任务，全部拿到正式审核通过。</li>
+        <li><strong>反事实物理视频</strong> —— 29 个生成器，同一场景渲两遍、一遍只改一条规律，外加逐条机器判定的审核闸门。</li>
         <li><strong>Solar M2F 实例分割</strong> —— 公开榜单 0.36，使用蛇形共享掩码适配器、四视角一致性推断与哈希固定的产物。<a href="https://github.com/Voskamp099/solar-m2f-snake2048">solar-m2f-snake2048</a></li>
       </ul>
       <h3>精选项目</h3>
@@ -32,7 +33,7 @@
       <h3>背景</h3>
       <p>北京工业大学 · 大数据管理与应用，2023–2027。加州大学伯克利分校 Extension · 访学生，2025–2026。课程、论文与奖项见<a href="https://voskamp099.github.io/technical-profile.html">技术档案</a>。</p>
       <h3>写作</h3>
-      <p>关于 AI 协作、量化研究流程与产品决策的笔记 —— <a href="https://voskamp099.github.io/">voskamp099.github.io</a></p>
+      <p>视频推理数据集与反事实物理视频的研究记录，以及 AI 协作与量化研究流程的笔记 —— <a href="https://voskamp099.github.io/">voskamp099.github.io</a></p>
     </td>
   </tr>
 </table>
