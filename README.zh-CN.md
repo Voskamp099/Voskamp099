@@ -10,7 +10,7 @@
       <p>北京 · 伯克利</p>
       <p>
         <a href="https://voskamp099.github.io/">笔记</a> ·
-        <a href="https://voskamp099.github.io/v2v-task-samples/">任务样本</a> ·
+        <a href="https://voskamp099.github.io/sample-of-work/">作品样本</a> ·
         <a href="https://linkedin.com/in/raelynn-z">LinkedIn</a> ·
         <a href="https://voskamp099.github.io/technical-profile.html">技术档案</a>
       </p>
@@ -35,7 +35,7 @@
       <p>北京工业大学 · 大数据管理与应用，2023–2027。加州大学伯克利分校 Extension · 访学生，2025–2026。课程、论文与奖项见<a href="https://voskamp099.github.io/technical-profile.html">技术档案</a>。</p>
       <h3>写作</h3>
       <p>视频推理数据集与反事实物理视频的研究记录，以及 AI 协作与量化研究流程的笔记 —— <a href="https://voskamp099.github.io/">voskamp099.github.io</a></p>
-      <p><a href="https://voskamp099.github.io/v2v-task-samples/">视频推理任务样本</a> —— 每个任务一条真实样本：输入视频、目标视频与提示词。</p>
+      <p><a href="https://voskamp099.github.io/sample-of-work/">作品样本</a> —— 每个视频推理任务一条真实样本（输入视频、目标视频、提示词），每个反事实生成器一条（真值与反事实并排）。</p>
     </td>
   </tr>
 </table>
