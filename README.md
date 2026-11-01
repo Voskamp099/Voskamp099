@@ -19,7 +19,7 @@
       <h3>Now</h3>
       <ul>
         <li><strong>Granted invention patent, CN 119739853 B</strong> — one of seven co-inventors; a method for cross-platform social media summarization based on LLM self-iteration.</li>
-        <li><strong>Multimodal video-reasoning benchmarks</strong> — 230K task samples across Video 2 Video and Reference Video to Video tasks; 16 dataset tasks owned end to end, each with a formal review pass.</li>
+        <li><strong>Multimodal video-reasoning benchmarks</strong> — 230K task samples across Video to Video and Reference Video to Video tasks; 16 dataset tasks owned end to end, each with a formal review pass.</li>
         <li><strong>Counterfactual physics video</strong> — 32 generators that render one scene twice, once with a single law broken, plus the machine-decided review harness that gates every sample.</li>
         <li><strong>Solar M2F instance segmentation</strong> — public leaderboard 0.36, with a snake-shaped shared-mask adapter, four-view consensus inference and hash-pinned artifacts. <a href="https://github.com/Voskamp099/solar-m2f-snake2048">solar-m2f-snake2048</a></li>
       </ul>
