@@ -25,6 +25,7 @@
       </ul>
       <h3>Selected work</h3>
       <ul>
+        <li><a href="https://github.com/Voskamp099/time-mirror">time-mirror</a> — Next.js 16 · a digital twin that grows from a child's memories; chat answers are grounded in what was actually recorded — <a href="https://voskamp099.github.io/time-mirror/">demo</a></li>
         <li><a href="https://github.com/Voskamp099/quant-alpha-pipeline">quant-alpha-pipeline</a> — Python · reproducible alpha research pipeline: one config file, a human review gate, resumable runs, duplication control</li>
         <li><a href="https://github.com/Voskamp099/PetAssistant">PetAssistant</a> — Swift · native macOS companion that reads the calendar and to-do list locally, with bilingual speech</li>
         <li><a href="https://github.com/Voskamp099/campus-ecosystem-network">campus-ecosystem-network</a> — Node/Express · platform connecting universities, companies and government partners: auth, moderation workflow, tests</li>
