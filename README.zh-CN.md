@@ -25,6 +25,7 @@
       </ul>
       <h3>精选项目</h3>
       <ul>
+        <li><a href="https://github.com/Voskamp099/time-mirror">time-mirror</a> —— Next.js 16 · 从孩子的回忆里长出来的数字分身，对话只答回忆里真的发生过的事 —— <a href="https://voskamp099.github.io/time-mirror/">Demo</a></li>
         <li><a href="https://github.com/Voskamp099/quant-alpha-pipeline">quant-alpha-pipeline</a> —— Python · 可复现的量化研究流程：单配置文件、人工复核闸门、可续跑、去重</li>
         <li><a href="https://github.com/Voskamp099/PetAssistant">PetAssistant</a> —— Swift · 原生桌面伴侣，本地读取日历与待办，支持中英文语音</li>
         <li><a href="https://github.com/Voskamp099/campus-ecosystem-network">campus-ecosystem-network</a> —— Node/Express · 连接高校、企业与政府伙伴的平台：鉴权、审核流程与测试</li>
